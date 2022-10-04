@@ -1,2 +1,3 @@
 # Documentation
-[Documentation](https://git-scm.com/doc)
+[Git - Documentation](https://git-scm.com/doc)
+[Markdown - Documentation](https://guides.github.com/features/mastering-markdown)
